@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+input {
+    height: 31px;
+    padding: 0 10px;
+}
+
+.input {
+    margin: 20px;
+}
+
+button {
+    height: 31px;
+    margin: 10px;
+    border-radius: 10%;
+    background-color: #fdce60;
+    cursor: pointer;
+}
+
+.buttons {
+    margin-bottom: 20px;
+}
+
+#circle {
+    height: 170px;
+    width: 170px;
+    border-radius: 100%;
+    background-color: #7eacf6;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+
